@@ -31,7 +31,7 @@ You are free to:
 
 ### Patron Poem
 In keeping with the tradition of honoring patrons of Tamil, this dataset includes the following credit poem for the benefactor who enabled its creation:  
-
+<sub>இன்னிசை வெண்பா</sub>
 > தந்தன்சீ தக்காதி வேந்தனின் சந்ததி  
 > தந்தின்ப சான்றோர்தேன் சிந்தைப் புறம்விளைய  
 > தந்தவேள் சாசிம்தன் தண்விந்தை துந்தித்தே  
