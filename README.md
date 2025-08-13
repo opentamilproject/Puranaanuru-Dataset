@@ -57,7 +57,10 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 ---
 
 ### Data Preparation
-- **[Fiverr Contributor Name]** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to their page].
+- **Niranjana A** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to their page](https://www.fiverr.com/niranjana_anand/provide-tamil-and-english-transcription-service-bc40?context_referrer=listings_page&source=your_recently_viewed_gigs&ref_ctx_id=e50e60961a4e4b68bcda382feb1c1b3b&context=recommendation&pckg_id=1&pos=1&context_alg=recently_viewed&imp_id=8c4917df-b133-4e38-a55b-f17646d08d2a).
+
+> எழுத்தாணி இன்றியோலை உண்டோ எழுத்தர்  
+> உழைப்பின்றி உண்டோ தமிழ்  
 
 ---
 
