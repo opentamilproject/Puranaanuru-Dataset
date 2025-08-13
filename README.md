@@ -51,8 +51,8 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
   - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
   - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
  
-> **Tamil:** *[Honor poem in Tamil here]*  
-> **English:** *[Poem translation here]
+> தீந்தமிழ் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
+> ஆங்கிலத்தில் நற்பெயர்த் தார்  
 
 ---
 
