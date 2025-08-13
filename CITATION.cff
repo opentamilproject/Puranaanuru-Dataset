@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "Purananuru Dataset"
 authors:
-  - family-names: "YourLastName"
-    given-names: "YourFirstName"
+  - family-names: "Open Tamil Project"
+    given-names: ""
 version: "1.0"
 date-released: 2025-08-13
 doi: "10.5281/zenodo.xxxxxxx"  # optional if you upload to Zenodo
@@ -11,8 +11,8 @@ license: "CC-BY-4.0"
 preferred-citation:
   type: dataset
   authors:
-    - family-names: "YourLastName"
-      given-names: "YourFirstName"
+    - family-names: "Open Tamil Project"
+      given-names: ""
   title: "Purananuru Dataset"
   version: "1.0"
   date-released: 2025-08-13
