@@ -40,7 +40,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 ---
 
 ### Source Text and Editorial Work
-- **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
+- **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).  
 <sub>குறள் வெண்பா</sub>  
 > தாத்தா திதித்த ததைத்தாது தாத்துதித்தே  
 > தாதோதி தத்துத்த தை
@@ -49,7 +49,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 ### Translations and Commentary
 - **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
   - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
-  - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
+  - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)  
 <sub>குறள் வெண்பா</sub>  
 > தீந்தமிழ் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
 > ஆங்கிலத்தில் நற்பெயர்த் தார்  
@@ -57,7 +57,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 ---
 
 ### Data Preparation
-- **Niranjana A** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to her page](https://www.fiverr.com/niranjana_anand/provide-tamil-and-english-transcription-service-bc40?context_referrer=listings_page&source=your_recently_viewed_gigs&ref_ctx_id=e50e60961a4e4b68bcda382feb1c1b3b&context=recommendation&pckg_id=1&pos=1&context_alg=recently_viewed&imp_id=8c4917df-b133-4e38-a55b-f17646d08d2a).
+- **Niranjana A** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to her page](https://www.fiverr.com/niranjana_anand/provide-tamil-and-english-transcription-service-bc40?context_referrer=listings_page&source=your_recently_viewed_gigs&ref_ctx_id=e50e60961a4e4b68bcda382feb1c1b3b&context=recommendation&pckg_id=1&pos=1&context_alg=recently_viewed&imp_id=8c4917df-b133-4e38-a55b-f17646d08d2a).  
 <sub>குறள் வெண்பா</sub>  
 > எழுத்தாணி இன்றியோலை உண்டோ எழுத்தர்  
 > உழைப்பின்றி உண்டோ தமிழ்  
