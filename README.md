@@ -25,7 +25,7 @@ You are free to:
 
 ### Conditions:
 - **Attribution** — You must give appropriate credit to the dataset in a format suitable for your medium (e.g., APA, MLA, Chicago).
-- **Credit Poem** — Where possible, please also quote the traditional Tamil credit poem crediting the patron who enabled this dataset within your publication, project, or accompanying materials.
+- **Credit Poem** — If possible, please also quote the traditional Tamil credit poem crediting the patron who enabled this dataset within your publication, project, or accompanying materials.
 
 ## Credits
 
