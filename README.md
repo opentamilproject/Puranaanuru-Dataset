@@ -29,8 +29,30 @@ You are free to:
 
 ## Credits
 
-- Compiler: [Your Name or Project Name]
-- Patron: [Name if public]
+### Patron Poem
+In keeping with the Tamil literary tradition of honoring patrons, this dataset includes the following credit poem for the benefactor who enabled its creation:  
+
+> *[Insert Tamil credit poem here]*  
+> *(Optional English translation here)*
+
+---
+
+### Source Text and Editorial Work
+- **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
+
+---
+
+### Translations and Commentary
+- **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
+  - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
+  - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
+
+---
+
+### Data Preparation
+- **[Fiverr Contributor Name]** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to their page].
+
+---
 
 ## Contact & Contributions
 
