@@ -35,7 +35,7 @@ You are free to:
 ## Contact & Contributions
 
 For questions, suggestions, or to share your work using this dataset:
-- Email: [Your Email]
-- GitHub Issues: [Repo Issues link]
+- Email: opentamilproject@gmail.com
+- GitHub Issues: [[Repo Issues link](https://github.com/opentamilproject/purananuru-dataset/issues)]
 
 Contributions such as additional metadata, translations, or scholarly annotations are welcome.
