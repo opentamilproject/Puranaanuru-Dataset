@@ -41,7 +41,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 ---
 
 ### Source Text and Editorial Work
-- **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
+- **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/mode/2up?view=theater).
 
 <sub>குறள் வெண்பா</sub>  
 > தாத்தா திதித்த ததைத்தாது தாத்துதித்தே  
