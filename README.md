@@ -30,10 +30,12 @@ You are free to:
 ## Credits
 
 ### Patron Poem
-In keeping with the Tamil literary tradition of honoring patrons, this dataset includes the following credit poem for the benefactor who enabled its creation:  
+In keeping with the tradition of honoring patrons of Tamil, this dataset includes the following credit poem for the benefactor who enabled its creation:  
 
-> *[Insert Tamil credit poem here]*  
-> *(Optional English translation here)*
+> தந்தன்சீ தக்காதி வேந்தனின் சந்ததி  
+> தந்தின்ப சான்றோர்தேன் சிந்தைப் புறம்விளைய  
+> தந்தவேள் சாசிம்தன் தண்விந்தை துந்தித்தே  
+> தந்தத் தமிழ்நற் கொடை
 
 ---
 
