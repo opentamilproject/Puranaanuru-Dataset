@@ -41,9 +41,7 @@ In keeping with the Tamil literary tradition of honoring patrons, this dataset i
 - **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
 
 > தாத்தா திதித்த ததைத்தாது தாத்துதித்தே  
-> தாதோதி தத்துத்த தை  
-> **English:** *[Poem translation here]
-
+> தாதோதி தத்துத்த தை
 ---
 
 ### Translations and Commentary
