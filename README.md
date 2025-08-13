@@ -40,12 +40,18 @@ In keeping with the Tamil literary tradition of honoring patrons, this dataset i
 ### Source Text and Editorial Work
 - **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
 
+> **Tamil:** *[Honor poem in Tamil here]*  
+> **English:** *[Poem translation here]
+
 ---
 
 ### Translations and Commentary
 - **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
   - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
   - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
+ 
+> **Tamil:** *[Honor poem in Tamil here]*  
+> **English:** *[Poem translation here]
 
 ---
 
