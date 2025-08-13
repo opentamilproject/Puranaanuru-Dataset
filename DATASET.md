@@ -23,7 +23,8 @@ This document describes the columns in the `purananuru_dataset_v1.0.csv` file.
 
 ## Additional Notes
 
-- **Source for Tamil text and metadata:** The `poem_text`, `thinai`, `thurai`, `sung_for`, `poet`, and `variant_reading` fields were scraped from *Purananuru* (U. V. Swaminatha Iyer, 3rd Edition, 1935), available via the Internet Archive: [https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).
+- **Source for Tamil text and metadata:** The `poem_text`, `thinai`, `thurai`, `sung_for`, `poet`, and `variant_reading` fields were scraped from *Purananuru* (U. V. Swaminatha Iyer, 3rd Edition, 1935), available via the Internet Archive: [https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/page/n123/mode/1up).\
+\n
 - **Source for translations and simplified Tamil renderings:**  
   The `english_translation_vaidehi`, `english_word_by_word_vaidehi`, `vaidehi_notes`, and `simple_tamil_rendering` fields are based on translations and commentaries by Vaidehi, available at:  
   - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
