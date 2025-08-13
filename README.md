@@ -12,11 +12,8 @@ This dataset has been commissioned and compiled to make available a **metrically
 - Cultural preservation and digital projects
 - Creative adaptations, translations, and educational uses
 
-## Contents
-
-- Full verse texts in Tamil (Unicode)
-- Metadata (poem number, poet, theme, etc.)
-- [Optional: Additional transliterations/translations if included]
+## Data Dictionary
+The full list of columns and their descriptions is available in the [DATASET.md](DATASET.md) file.
 
 ## Usage
 
