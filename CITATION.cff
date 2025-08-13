@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Purananuru Dataset"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+version: "1.0"
+date-released: 2025-08-13
+doi: "10.5281/zenodo.xxxxxxx"  # optional if you upload to Zenodo
+license: "CC-BY-4.0"
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: "YourLastName"
+      given-names: "YourFirstName"
+  title: "Purananuru Dataset"
+  version: "1.0"
+  date-released: 2025-08-13
+  notes: "Where possible, please also quote the traditional Tamil credit poem honoring the patron who enabled this dataset within your publication, project, or accompanying materials."
