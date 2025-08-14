@@ -1,4 +1,4 @@
-<img width="546" height="716" alt="image" src="https://github.com/user-attachments/assets/46ff196a-4b29-4c89-8ef7-90b6504f6b25" /><img width="546" height="716" alt="image" src="https://github.com/user-attachments/assets/189e0a97-1b16-45e9-a60d-585b66d6725a" /># Purananuru Dataset
+# Purananuru Dataset
 
 An openly available dataset compiling verses from the ancient Tamil Sangam literature anthology *Purananuru*.  
 This work is released for academic, cultural, and creative use under the CC BY 4.0 license.
