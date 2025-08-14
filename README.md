@@ -1,4 +1,4 @@
-# Purananuru Dataset
+<img width="546" height="716" alt="image" src="https://github.com/user-attachments/assets/46ff196a-4b29-4c89-8ef7-90b6504f6b25" /><img width="546" height="716" alt="image" src="https://github.com/user-attachments/assets/189e0a97-1b16-45e9-a60d-585b66d6725a" /># Purananuru Dataset
 
 An openly available dataset compiling verses from the ancient Tamil Sangam literature anthology *Purananuru*.  
 This work is released for academic, cultural, and creative use under the CC BY 4.0 license.
@@ -32,8 +32,8 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 
 <sub>இன்னிசை வெண்பா</sub>  
 > தந்தன்சீ தக்காதி வேந்தனின் சந்ததி  
-> தந்தின்ப சான்றோர்தேன் சிந்தைப் புறம்விளைய  
-> தந்தவேள் சாசிம்தன் தண்விந்தை தொந்தித்தே  
+> தந்தின்பச் சான்றோர்தேன் சிந்தைப் புறம்விளைய  
+> தந்தவேள் சாசிம்தன் தண்விந்தைத் தொந்தித்தே  
 > தந்தத் தமிழ்நற் கொடை  
 
 ---
@@ -42,8 +42,8 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 - **U. V. Swaminatha Iyer** — Original editor and publisher of the *Purananuru* (3rd Edition, 1935). This dataset’s core Tamil text, *thinai*, *thurai*, *sung_for*, *poet*, and variant readings are based on his monumental work, available via the Internet Archive: [Purananuru – U. V. Swaminatha Iyer, 3rd Ed. (1935)](https://archive.org/details/Tamil-Purananuru-U-Ve-Sa-3rd-Edition-1935/mode/2up?view=theater).
 
 <sub>குறள் வெண்பா</sub>  
-> தாத்தா திதித்த ததைத்தாது தாத்துதித்தே  
-> தாதோதி தத்துத்த தை
+> தாத்தாத் திதித்தத் ததைத்தாதுத் தாத்துதித்தே  
+> தாதோதித் தத்துத்தத் தை
 ---
 
 ### Translations and Commentary
@@ -52,7 +52,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
   - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
 
 <sub>குறள் வெண்பா</sub>  
-> தீந்தமிழ் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
+> தீந்தமிழ்ச் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
 > ஆங்கிலத்தில் நற்பெயர்த் தார்  
 
 ---
