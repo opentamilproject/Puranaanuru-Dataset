@@ -10,7 +10,6 @@ This document describes the columns in the `purananuru_dataset_v1.0.csv` file.
 |-------------|-------------|
 | `poem_number` | Sequential number of the poem as per traditional *Purananuru* ordering. |
 | `poem_text` | Original metrically intact Tamil text of the poem. |
-| `meter` | The metrical form used in the poem. |
 | `thinai` | The primary thematic category (*thinai*) of the poem, as per *Puram* genre conventions. |
 | `thurai` | The sub-category(s) (*thurai*) within the *thinai* of the poem. |
 | `sung_for` | The patron, king, or individual for whom the poem was sung. |
