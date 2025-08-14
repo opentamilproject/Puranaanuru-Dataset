@@ -44,16 +44,6 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 <sub>குறள் வெண்பா</sub>  
 > தாத்தாத் திதித்தத் ததைத்தாதுத் தாத்துதித்தே  
 > தாதோதித் தத்துத்தத் தை
----
-
-### Translations and Commentary
-- **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
-  - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
-  - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
-
-<sub>குறள் வெண்பா</sub>  
-> தீந்தமிழ்ச் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
-> ஆங்கிலத்தில் நற்பெயர்த் தார்  
 
 ---
 
