@@ -22,10 +22,8 @@ This dataset is released under the **Creative Commons Attribution 4.0 Internatio
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format.
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-
-### Conditions:
-- **Attribution** — You must give appropriate credit to the dataset in a format suitable for your medium (e.g., APA, MLA, Chicago).
-- **Credit Poem** — If possible, please also quote the traditional Tamil credit poem crediting the patron who enabled this dataset within your publication, project, or accompanying materials.
+   
+**Attribution** — You must give appropriate credit to the dataset in a format suitable for your medium (e.g., APA, MLA, Chicago).  
 
 ## Credits
 
