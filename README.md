@@ -5,7 +5,7 @@ This work is released for academic, cultural, and creative use under the CC BY 4
 
 ## Background
 
-The *Purananuru* is the earliest available Tamil Puram anthology and a part of the Sangam corpus. This text reflects the society, politics, war and philosophy of ancient Tamilakam. The *Purananuru* is especially valuable as an example text for the various strands (thinai) and sub-strands (thurai) of the Puram genre. 
+The *Purananuru* is the earliest extant Tamil Puram anthology and a part of the Sangam corpus. This text reflects the society, politics, war and philosophy of ancient Tamilakam. The *Purananuru* is especially valuable as an example text for the various strands (thinai) and sub-strands (thurai) of the Puram genre. 
 
 This dataset has been commissioned and compiled to make available a **metrically intact digital edition** of the *Purananuru*, preserving prosodic features while incorporating variant readings and other critical annotations. It is intended to support:
 - Research in prosody, linguistics, history, and literature
