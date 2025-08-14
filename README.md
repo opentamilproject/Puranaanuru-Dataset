@@ -20,8 +20,8 @@ The full list of columns and their descriptions is available in the [DATASET.md]
 This dataset is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 You are free to:
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 ### Conditions:
 - **Attribution** — You must give appropriate credit to the dataset in a format suitable for your medium (e.g., APA, MLA, Chicago).
