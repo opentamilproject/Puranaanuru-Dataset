@@ -14,7 +14,7 @@ This document describes the columns in the `purananuru_dataset_v1.0.csv` file.
 | `thurai` | The sub-category(s) (*thurai*) within the *thinai* of the poem. |
 | `sung_for` | The patron, king, or individual for whom the poem was sung. |
 | `poet` | Name of the poet attributed to the poem. |
-| `variant_reading` | Alternate textual readings found in different manuscripts or editions.  |
+| `variant_readings` | Alternate textual readings found in different manuscripts or editions.  |
 | `english_translation_vaidehi` | English translation of the poem provided by Vaidehi. |
 | `english_word_by_word_vaidehi` | Word-by-word English translation provided by Vaidehi. |
 | `vaidehi_notes` | Translator’s notes and commentary by Vaidehi. |
