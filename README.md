@@ -51,6 +51,7 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 - **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
   - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
   - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
+  - You can also find her complete translation of the Patiṉeṇmēṟkaṇakku Sangam texts here: https://sangamtranslationsbyvaidehi.com/
 
 <sub>குறள் வெண்பா</sub>  
 > தீந்தமிழ்ச் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
