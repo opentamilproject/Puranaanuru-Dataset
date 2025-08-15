@@ -47,6 +47,17 @@ In keeping with the tradition of honoring patrons of Tamil, this dataset include
 
 ---
 
+### Translations and Commentary
+- **Vaidehi** — English translations, word-by-word glosses, translator’s notes, and simplified Tamil renderings are sourced from her *Sangam Translations by Vaidehi* project:  
+  - [Purananuru 1–200](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-1-200/)  
+  - [Purananuru 201–400](https://sangamtranslationsbyvaidehi.com/ettuthokai-purananuru-201-400/)
+
+<sub>குறள் வெண்பா</sub>  
+> தீந்தமிழ்ச் சான்றோர்ச்சொல் மண்ணறிய வைதேகி  
+> ஆங்கிலத்தில் நற்பெயர்த் தார்
+
+---
+
 ### Data Preparation
 - **Niranjana A** — Extracted and digitized the base Tamil text and metadata from scanned sources. Fiverr profile: [link to her page](https://www.fiverr.com/niranjana_anand/provide-tamil-and-english-transcription-service-bc40?context_referrer=listings_page&source=your_recently_viewed_gigs&ref_ctx_id=e50e60961a4e4b68bcda382feb1c1b3b&context=recommendation&pckg_id=1&pos=1&context_alg=recently_viewed&imp_id=8c4917df-b133-4e38-a55b-f17646d08d2a).
 
